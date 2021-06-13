@@ -27,7 +27,7 @@ public class DecodingText {
                 }
             }
             System.out.print(new String(charsForDecoder));
-            System.out.println("\n------------------------------------------------------\n");
+            System.out.println("\n-----------------------------------------------------\n");
         }
     }
 }
